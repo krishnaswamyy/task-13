@@ -1,0 +1,15 @@
+Dataset Shape: (1797, 64)
+Target Shape: (1797,)
+Accuracy without PCA: 0.9722222222222222
+Accuracy with PCA (2 components): 0.5388888888888889
+Accuracy with PCA (10 components): 0.8972222222222223
+Accuracy with PCA (30 components): 0.9611111111111111
+Accuracy with PCA (50 components): 0.9722222222222222
+
+Accuracy Comparison
+-------------------
+Without PCA: 0.9722222222222222
+With PCA (2 components): 0.5388888888888889
+With PCA (10 components): 0.8972222222222223
+With PCA (30 components): 0.9611111111111111
+With PCA (50 components): 0.9722222222222222
